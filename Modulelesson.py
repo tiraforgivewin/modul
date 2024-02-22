@@ -6,5 +6,8 @@ from Module1 import * #Summa as S
 #print(summa_3)
 #print(summa_sl)
 
-s=arithmetic(2,1)
+# s=arithmetic(6,89)
+# print(s)
+
+s=square(4)
 print(s)
